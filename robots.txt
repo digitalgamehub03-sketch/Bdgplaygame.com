@@ -1,0 +1,22 @@
+# ==========================================
+# robots.txt
+# GameHub Pro
+# ==========================================
+
+User-agent: *
+
+Allow: /
+
+# Block system files (optional)
+Disallow: /assets/private/
+Disallow: /cgi-bin/
+
+# Sitemap Location
+Sitemap: https://yourdomain.com/sitemap.xmlhttps://rajputseo.github.io/gamehubpro/User-agent: *
+
+Allow: /
+
+Disallow: /assets/private/
+Disallow: /cgi-bin/
+
+Sitemap: https://rajputseo.github.io/gamehubpro/sitemap.xml
